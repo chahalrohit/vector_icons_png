@@ -1,1 +1,0 @@
-# vector_icons_png
